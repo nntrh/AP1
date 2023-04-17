@@ -9,6 +9,11 @@
   color: #000;
   background: #fff;
 }
+body{
+  background-image: url("../img/fond.png");
+  background-size: cover;
+  background-position: center;
+}
 nav{
   position: fixed;
   background: #1b1b1b;
