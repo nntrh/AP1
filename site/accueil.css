@@ -66,7 +66,7 @@ nav .menu{
   position: absolute;
   height: 100%;
   width: 100%;
-  background-image: url(/img/fond.png);
+  background-image: url(../img/fond.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
